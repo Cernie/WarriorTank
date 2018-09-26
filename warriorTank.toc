@@ -1,0 +1,8 @@
+## Author: Cernie
+## Interface: 11200
+## Title: WarriorTank
+## Notes: Script function for one button smart Warrior tanking
+## Dependencies: SuperMacro, KLHThreatMeter
+## Version: 1.0
+warriorTank.xml
+warriorTank.lua
