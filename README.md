@@ -7,6 +7,7 @@ One button warrior tanking macro for vanilla World of Warcraft
 
 Unzip the CerniesWonderfulFunctions folder into WoW directory Interface/Addons folder. Remove the -master from the folder name.
 
+# Usage
 To use WarriorTank addon, create a macro and type 
 
 <code>/script WarriorTank_main();</code>
